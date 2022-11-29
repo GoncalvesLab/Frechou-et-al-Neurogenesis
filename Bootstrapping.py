@@ -7,8 +7,6 @@ Created on Wed Oct 26 13:51:51 2022
 
 '''
 
-20221026
-
 Boostrapping code and preprocessing to analyze tuning data
  
 '''
